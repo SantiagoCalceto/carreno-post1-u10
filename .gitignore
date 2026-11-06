@@ -1,0 +1,12 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.idea/
+*.iml
+.vscode/
+.DS_Store
+HELP.md
+# Volcados de error de la JVM
+hs_err_pid*.log
+replay_pid*.log
+# Reportes locales de Newman
+newman/
